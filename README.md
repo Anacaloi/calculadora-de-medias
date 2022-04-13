@@ -1,4 +1,4 @@
-*English Below*
+### *English Below*
 # Calculadora de Médias
 ## Projeto criado durante a Imersão Dev Alura
 Este pequeno projeto foi pensado para te ajudar a calcular sua média de notas no fim do ano
